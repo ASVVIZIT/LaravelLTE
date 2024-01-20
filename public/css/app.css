@@ -1,0 +1,26 @@
+.nav-sidebar .nav-link>.right, .nav-sidebar .nav-link>p>.right {
+    position: absolute !important;
+    right: 0.3rem !important;
+    top: 0.7rem !important;
+}
+
+.form-control-sm {
+    height: calc(1.8125rem + 2px);
+    padding: 0.35rem 0.5rem;
+    font-size: 0.875rem;
+    line-height: 1.5;
+    border-radius: 0.2rem;
+}
+
+.form-control-lg {
+    height: calc(2.875rem + 2px);
+    padding: 0.5rem 1rem;
+    font-size: 1.25rem;
+    line-height: 1.5;
+    border-radius: 0.3rem;
+}
+
+.card-title {
+    margin-bottom: 0.0rem !important;
+}
+
